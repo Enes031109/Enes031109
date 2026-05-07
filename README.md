@@ -1,4 +1,4 @@
-# ☕ Moin, ich bin Enes!
+# ☕ Hallo, ich bin Enes!
 
 ### 🏗️ Professioneller „StackOverflow Copy-Paste“ Architekt (in Ausbildung)
 Ich befinde mich aktuell im **Endstadium der Basisausbildung**. Mein Ziel? Code zu schreiben, der so gut ist, dass ich ihn morgen früh nicht sofort wieder löschen will. Spoiler: Bisher verliert der Code meistens gegen die Löschtaste. 🗑️
