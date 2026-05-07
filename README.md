@@ -37,7 +37,8 @@ Die Entwicklung meiner Projekte lässt sich an der Evolution meiner Dateinamen a
 
 ---
 <p align="left">
-<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/6539710f-c4e1-4f09-9eca-a37acfd77a02" />
+<img src="https://media.tenor.com/KN-vB15sgiEAAAAi/frustrated-mad.gif" alt="thumbsup">
+<img src="https://media1.tenor.com/m/W-i4A9lnpC8AAAAC/code.gif" alt="helloworld">
 </p>
 
 > **POV: Meine Commit-Messages heute**
