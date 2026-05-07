@@ -25,7 +25,8 @@ Ich bin Fachinformatiker in Ausbildung und befinde mich aktuell im **Endstadium 
 
 ### 📊 Meine GitHub-Aktivität (Beweise meiner Existenz)
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enes031109&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/5efdaaea-73a8-487b-9a9f-a4332e10c11e"
+">
 </p>
 
 > **Interne Statistik:** > - 60% der Zeit: Starren auf den Monitor.
