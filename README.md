@@ -1,45 +1,46 @@
-# ☕ Hallo, ich bin Enes!
+# ☕ Moin, ich bin Enes!
 
-### 🚀 Junior Code-Artist | Bug-Züchter | Professioneller „Hat bei mir lokal funktioniert“-Sager
-Ich bin Fachinformatiker in Ausbildung und befinde mich aktuell im **Endstadium der Basisausbildung**. Das bedeutet: Ich weiß genug, um Dinge kaputt zu machen, aber noch nicht genug, um sie ohne 27 StackOverflow-Tabs wieder zu reparieren. 🛠️
-
----
-
-### 🎓 Mein Quest-Fortschritt
-* **Status:** 1. Lehrjahr (Habe die Tutorial-Insel im Visier, schwimme aber aktuell noch mit einer Ente als Rettungsring). 🐥
-* **Aktuelle Beschäftigung:** Ich versuche Java davon zu überzeugen, dass mein Code kein persönlicher Angriff ist.
-* **Langzeitziel:** Code schreiben, den ich in zwei Wochen noch verstehe (Spoiler: unwahrscheinlich).
+### 🏗️ Professioneller „StackOverflow Copy-Paste“ Architekt (in Ausbildung)
+Ich befinde mich aktuell im **Endstadium der Basisausbildung**. Mein Ziel? Code zu schreiben, der so gut ist, dass ich ihn morgen früh nicht sofort wieder löschen will. Spoiler: Bisher verliert der Code meistens gegen die Löschtaste. 🗑️
 
 ---
 
-### 🛠️ Tech-Stack & Überlebens-Skills
-
-| Technologie | Status | Realistischer Kommentar |
-| :--- | :--- | :--- |
-| **Java** | ![60%](https://geps.dev/progress/60) | Ich beherrsche OOP (Objekt-Orientierte Panik). |
-| **Spring Boot** | ![45%](https://geps.dev/progress/45) | 80% Konfiguration, 10% Logik, 10% Beten. |
-| **SQL** | ![75%](https://geps.dev/progress/75) | SELECT pizza FROM fridge WHERE hunger = 'infinite';` |
-| **HTML/CSS** | ![65%](https://geps.dev/progress/65) | Ich habe CSS verstanden. Und dann habe ich das Fenster skaliert... |
+### 🕹️ Aktueller Spielstand
+* **Level:** 1. Lehrjahr (Kurz vor dem Verlassen des Startgebiets „Tutorial-Insel“).
+* **XP-Status:** Sammle gerade mühsam Java-Erfahrungspunkte, während mein Arbeitsspeicher versucht, nicht zu schmelzen.
+* **Side-Quest:** Herausfinden, warum `null` existiert und wer es eingeladen hat.
 
 ---
 
-### 📊 Meine GitHub-Aktivität (Beweise meiner Existenz)
+### 🛠️ Was ich (theoretisch) kann
+
+| Skill | Realitätscheck |
+| :--- | :--- |
+| **Java** | Ich verstehe Klassen. Meistens sind wir aber in der „Es ist kompliziert“-Phase. |
+| **Spring Boot** | Ich starte die App und gehe Kaffee holen, damit ich die Fehlermeldungen nicht sehe. |
+| **SQL** | `DROP DATABASE frustration;` -- Schade, hat nicht funktioniert. |
+| **HTML/CSS** | Ich bewege Pixel von links nach rechts. Manchmal bewegen sie sich sogar zurück. |
+
+---
+
+### 📊 Meine GitHub-Aktivität (Drama in mehreren Akten)
 <p align="left">
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/5efdaaea-73a8-487b-9a9f-a4332e10c11e"
-">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </p>
 
-> **Interne Statistik:** > - 60% der Zeit: Starren auf den Monitor.
-> - 20% der Zeit: Suchen nach einem vergessenen Semikolon.
-> - 20% der Zeit: Überlegen, ob ich Hirte in den Alpen werden soll.
+> **Wusstest du schon?**
+> Meine häufigsten Commit-Messages sind:
+> 1. "Fixed bug" (Lüge)
+> 2. "Final version" (Noch größere Lüge)
+> 3. "Bitte funktionier einfach" (Gebet an die IT-Götter)
 
 ---
 
-### 📫 Kontakt für Mutige
-Falls du ein cooles Projekt hast oder mir erklären willst, warum mein Code null zurückgibt:
+### 📫 Kontakt (auf eigene Gefahr)
+Falls du jemanden suchst, der leidenschaftlich über fehlende Semikolons flucht:
 - ✉️ [Schreib mir eine Mail](mailto:enes.isaki@sbb.ch)
 
 ---
 
-### 💡 Meine goldene Regel
-*„Schreibe deinen Code immer so, als wäre der Typ, der ihn am Ende warten muss, ein gewalttätiger Psychopath, der weiß, wo du wohnst... und denk dran: Dieser Typ bist in sechs Monaten du selbst. Und du wirst sehr enttäuscht von dir sein.“*
+### 💡 Ein Wort zum Abschied
+*„Schreibe deinen Code immer so, als wäre der Typ, der ihn am Ende warten muss, ein gewalttätiger Psychopath, der weiß, wo du wohnst... und denk dran: Nach der Ausbildung bist du dieser Typ. Und du wirst dich fragen, warum du um 3 Uhr morgens dachtest, dass `variable123` ein guter Name sei.“*
