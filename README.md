@@ -1,4 +1,4 @@
-# 💀 Enes.exe | Brain-Rot Loading...
+# Hey, Ich bin Enes
 
 ### 👨‍💻 "If it works, don't touch it. Don't even look at it."
 Ich bin Enes, Fachinformatiker in Ausbildung. Mein Code ist wie ein Jenga-Turm aus Spaghetti: Ein falsches Semikolon und das ganze Backend verabschiedet sich in den Burnout. Ich bin aktuell in der **Endboss-Phase der Basisausbildung**
@@ -36,10 +36,8 @@ Die Entwicklung meiner Projekte lässt sich an der Evolution meiner Dateinamen a
 | **Git** | ![Learning](https://img.shields.io/badge/Git-Struggle-red) | `git add .` -> `git commit -m "asdfghjk"` -> `git push --force` (Ich lebe gefährlich). |
 
 ---
-
-### 📊 GitHub Stats (My Villain Origin Story)
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enes031109&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/6539710f-c4e1-4f09-9eca-a37acfd77a02" />
 </p>
 
 > **POV: Meine Commit-Messages heute**
@@ -59,4 +57,4 @@ Falls du Tipps hast, wie man die Tutorial-Insel ohne bleibende Schäden verläss
 ---
 
 ### 💡 Wisdom for the Grind
-*„Programmieren ist 10% Coden und 90% sich fragen, welcher Idiot diesen Müll geschrieben hat, nur um dann festzustellen, dass man es selbst war. Wenn mein Code läuft, bin ich der Main Character. Wenn nicht, bin ich ein NPC ohne Dialog-Optionen.“*
+*„Ich programmiere nicht, ich jongliere mit brennenden Nudeln, während ich versuche, einem Stein beizubringen, wie man die vierte Dimension berechnet. Mein Code ist so konfus, dass mein Computer angefangen hat, mir per E-Mail Pizza-Rezepte zu schicken, um mich abzulenken. Wenn ich eine Datei FINAL_V67_DÖNER.java nenne, frag nicht nach der Logik – ich kommuniziere jetzt direkt mit den Elektronen und sie haben mir gesagt, dass Variablen eigentlich nur bunte Träume sind.“*
