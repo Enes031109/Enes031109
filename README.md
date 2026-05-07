@@ -1,4 +1,4 @@
-# ☕ Moin, ich bin Enes!
+# ☕ Hallo, ich bin Enes!
 
 ### 🚀 Junior Code-Artist | Bug-Züchter | Professioneller „Hat bei mir lokal funktioniert“-Sager
 Ich bin Fachinformatiker in Ausbildung und befinde mich aktuell im **Endstadium der Basisausbildung**. Das bedeutet: Ich weiß genug, um Dinge kaputt zu machen, aber noch nicht genug, um sie ohne 27 StackOverflow-Tabs wieder zu reparieren. 🛠️
