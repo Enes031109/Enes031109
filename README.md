@@ -1,61 +1,100 @@
-# Hey, Ich bin Enes
+# Hey, ich bin Enes 👨‍💻
 
-### 👨‍💻 "If it works, don't touch it. Don't even look at it."
-Ich bin Enes, Fachinformatiker in Ausbildung. Mein Code ist wie ein Jenga-Turm aus Spaghetti: Ein falsches Semikolon und das ganze Backend verabschiedet sich in den Burnout. Ich bin aktuell in der **Endboss-Phase der Basisausbildung**
+### 🚆 „If it works, don't touch it. If it's in production, pray.“
 
----
+Ich bin Enes, Fachinformatiker in Ausbildung bei der **SBB im Team KIB**. Mittlerweile im **2. Lehrjahr** – ich habe das Tutorial überlebt, aber der Endboss hat jetzt einfach eine zweite Phase gestartet.
 
-### 🕹️ Game-Log (The Grind)
-- **Status:** 1. Lehrjahr (Tutorial-Insel Endgegner hat mich gerade im Schwitzkasten).
-- **Current Vibe:** Ich schreibe Code, bei dem selbst die IDE den Dark-Mode verlässt, um mich zu blenden.
-- **Mental State:** 14 Tabs offen, 3 davon sind StackOverflow, 1 ist ChatGPT und der Rest sind „Wie werde ich Schafhirte“-Suchen.
+Mein Code ist immer noch ein Jenga-Turm aus Spaghetti, aber inzwischen weiss ich wenigstens, welcher Stein wahrscheinlich alles zum Einsturz bringt. Meistens.
 
 ---
 
-### 📂 Meine File-Hierarchie (The Descent into Madness)
-Die Entwicklung meiner Projekte lässt sich an der Evolution meiner Dateinamen ablesen:
-- 📄 `Application.java` (Der Optimismus am Anfang)
-- 📄 `Application_FIXED.java` (Die erste Lüge)
-- 📄 `Application_FINAL.java` (Hoffnung)
-- 📄 `Application_FINAL_V2.java` (Realität)
-- 📄 `Application_FINAL_V2_LAST_CHANCE.java` (Verzweiflung)
-- 📄 `Application_FINAL_V2_LAST_CHANCE_Echt_Jetzt.java` (Zusammenbruch)
-- 📄 `Application_FINAL_V2_LAST_CHANCE_Echt_Jetzt_BITTE_MAN.java` (Gebet)
-- 📄 `trash_do_not_open_fire.java` (Das aktuelle Projekt)
+### 🕹️ Game-Log (Season 2: The Grind Gets Real)
+
+- **Status:** 2. Lehrjahr bei der SBB, Team KIB 🚆
+- **XP-Level:** +1 Lehrjahr, +1000 StackOverflow-Tabs, −20 % mentale Stabilität.
+- **Current Vibe:** Aus „Was ist ein NullPointerException?“ wurde „Warum ist das *schon wieder* ein NullPointerException?“
+- **Mental State:** 17 Tabs offen, 4 davon mit Logs, 3 mit StackOverflow und 1 mit der Frage, ob Schafhirte wirklich noch eine Option ist.
+- **Main Quest:** Irgendwie produktiven Code schreiben, ohne dass das Monitoring plötzlich interessanter wird als mein Mittagessen.
 
 ---
 
-### 🛠️ Tech-Stack (Or: Things I pretend to understand)
+### 📂 Meine File-Hierarchie (Character Development?)
+
+Die Dateinamen haben sich weiterentwickelt. Ich leider auch. Ein bisschen.
+
+- 📄 `Application.java` — Unschuld.
+- 📄 `Application_FIXED.java` — Optimismus.
+- 📄 `Application_FINAL.java` — Selbstbetrug.
+- 📄 `Application_FINAL_V2_LAST_CHANCE.java` — Verhandlung mit dem Universum.
+- 📄 `Application_FINAL_V2_LAST_CHANCE_Echt_Jetzt_BITTE_MAN.java` — Eskalation.
+- 📄 `Application_FINAL_V67_DÖNER.java` — Der Döner war die einzige Konstante.
+- 📄 `trash_do_not_open_fire.java` — Legacy-Code. Bitte nicht anfassen. Bitte.
+
+**Fun Fact:** Ich bin jetzt im 2. Lehrjahr. Die Dateinamen sind immer noch im ersten.
+
+---
+
+### 🛠️ Tech-Stack (Now With More Responsibility™)
 
 | Technologie | Skill-Level | Mein ehrlicher Take |
 | :--- | :--- | :--- |
-| **Java** | ![60%](https://geps.dev/progress/60) | Toxischste Beziehung meines Lebens. Ich liebe OOP, Java liebt `NullPointerException`. 🚩 |
-| **Spring Boot** | ![45%](https://geps.dev/progress/45) | Ich klatsche `@Annotations` auf alles drauf und hoffe auf ein Wunder. |
-| **SQL** | ![75%](https://geps.dev/progress/75) | `SELECT sanity FROM life WHERE coding_session > 5h;` -- **Result: Empty set.** |
-| **HTML/CSS** | ![65%](https://geps.dev/progress/65) | Ich bewege Pixel, bis sie aufhören, mich zu nerven. |
-| **Git** | ![Learning](https://img.shields.io/badge/Git-Struggle-red) | `git add .` -> `git commit -m "asdfghjk"` -> `git push --force` (Ich lebe gefährlich). |
+| **Java** | 📈 2. Lehrjahr | OOP verstehe ich. Meine Bugs haben trotzdem ihre eigene Klassenhierarchie. |
+| **Spring Boot** | 📈 Loading... | `@Autowired` und hoffen, dass der Context nicht mehr Fragen stellt als ich. |
+| **SQL** | 🧠 Query-Master | `SELECT sanity FROM life WHERE workload < 100;` — Result: Empty set. |
+| **HTML/CSS** | 🎨 Pixel-Therapeut | Wenn es schief aussieht, ist es kein Bug. Es ist ein Designentscheid. |
+| **Git** | ⚠️ Risky Business | `git commit -m "fix"` — Die Commit-Message ist kurz, die Story dahinter nicht. |
+| **Debugging** | 🔥 Fortgeschrittenes Leiden | Erst den Fehler finden, dann herausfinden, warum er überhaupt existiert. |
+| **SBB / Team KIB** | 🚆 In Progress | Ich lerne, wie IT im echten Arbeitsalltag funktioniert. Spoiler: Es gibt mehr als nur `System.out.println()`. |
 
 ---
-<p align="left">
-<img src="https://media.tenor.com/KN-vB15sgiEAAAAi/frustrated-mad.gif" alt="thumbsup">
-<img src="https://media1.tenor.com/m/W-i4A9lnpC8AAAAC/code.gif" alt="helloworld">
-</p>
 
-> **POV: Meine Commit-Messages heute**
-> - `initial commit`
-> - `fix`
-> - `fix 2`
-> - `final fix`
-> - `finalist final fix`
-> - `the finalst final fix`
+### 🚆 SBB Life — Team KIB Edition
+
+Vom Tutorial in die nächste Runde: Ausbildung bei der **SBB im Team KIB**.
+
+Hier sammle ich nicht nur XP in Java und Co., sondern auch Erfahrung im Team, im Arbeitsalltag und darin, Probleme zu lösen, die nicht einfach mit einem Semikolon verschwinden.
+
+**Mein aktueller Skill-Tree:**
+- 🧩 Bugs finden, bevor sie mich finden.
+- 🔍 Logs lesen und so tun, als hätte ich den Fehler sofort erkannt.
+- 🤝 Im Team arbeiten, ohne bei jedem Git-Konflikt emotionalen Support zu benötigen.
+- 🚀 Vom „Es läuft auf meinem Rechner“ zu „Es läuft hoffentlich auch überall sonst“.
+
+---
+
+### 💻 POV: Meine Commit-Messages
+
+```text
+initial commit
+fix
+fix 2
+actually fixed
+why is this broken
+fixed the fix
+final fix
+final fix (real)
+please let this be the last one
+works on my machine
+```
 
 ---
 
 ### 📫 Reach out
-Falls du Tipps hast, wie man die Tutorial-Insel ohne bleibende Schäden verlässt:
-- ✉️ [Emotionaler Support & Pizza-Gutscheine hier](mailto:enes.isaki@sbb.ch)
+
+Falls du Tipps hast, wie man das 2. Lehrjahr überlebt, ohne dass Git, Java oder die eigene IDE einen persönlich angreifen:
+
+✉️ **Emotionaler Support & Pizza-Gutscheine:** enes.isaki@sbb.ch
 
 ---
 
 ### 💡 Wisdom for the Grind
-*„Ich programmiere nicht, ich jongliere mit brennenden Nudeln, während ich versuche, einem Stein beizubringen, wie man die vierte Dimension berechnet. Mein Code ist so konfus, dass mein Computer angefangen hat, mir per E-Mail Pizza-Rezepte zu schicken, um mich abzulenken. Wenn ich eine Datei FINAL_V67_DÖNER.java nenne, frag nicht nach der Logik – ich kommuniziere jetzt direkt mit den Elektronen und sie haben mir gesagt, dass Variablen eigentlich nur bunte Träume sind.“*
+
+*„Im ersten Lehrjahr habe ich Code geschrieben und gehofft, dass er funktioniert. Im zweiten Lehrjahr schreibe ich Code, lese die Logs, debugge drei Stunden und hoffe dann, dass er funktioniert.*
+
+*Ich bin bei der SBB im Team KIB, mein Skill-Level ist gestiegen und meine Bugs sind mittlerweile so komplex, dass sie eigentlich ein eigenes Team verdienen.*
+
+*Mein Code ist vielleicht noch nicht perfekt, aber hey: Er kompiliert. Und wenn nicht, war es bestimmt ein Problem mit dem Cache.“*
+
+**Status:** `2nd Year Unlocked` 🎮  
+**Achievement:** `Tutorial Survivor` 🏆  
+**Next Boss:** `Production Bug at 16:59` 🚨
